@@ -329,7 +329,7 @@ In this task, you will configure DNS name resolution within a virtual network by
 
      ![Image](./Images/Virtual%20Networking%20Ex1-t5-p12.png)
 
-## Task 6: Configure Azure DNS for external name resolution
+#### Task 6: Configure Azure DNS for external name resolution
 In this task, you will configure external DNS name resolution by using Azure public DNS zones.
 
 1. In a web browser, open a new tab and navigate to <https://www.godaddy.com/domains/domain-name-search>.
